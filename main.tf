@@ -9,7 +9,7 @@ terraform {
 provider "docker" {}
 
 resource "docker_image" "prometheus" {
-  name = "prometheus:1.0"
+  name = "prometheus:1.1"
   keep_locally = false # 이미지 중복 다운로드 방지
 }
 
