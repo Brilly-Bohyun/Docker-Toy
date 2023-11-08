@@ -3,9 +3,8 @@
 
 ### 사용 기술
 - 도커
-
-- testststststs
-
-- gugyugiugyugiuyg
-
-- 하이 김진성씨
+- 테라폼
+- 젠킨스
+- influx DB
+- 프로메테우스
+- 그라파나
